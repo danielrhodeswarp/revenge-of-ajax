@@ -1,4 +1,4 @@
-# Revenge of Ajax
+# revenge-of-ajax
 
 ## What is it?
 
